@@ -1,0 +1,60 @@
+{
+  "rutinas": [
+    {
+      "id": 1,
+      "name": "Rutina de cuerpo completo",
+      "level": "Intermedio",
+      "ejercicios": [
+        {
+          "id": 1,
+          "name": "Sentadillas",
+          "description": "Párate derecho con los pies separados a la anchura de los hombros. Baja tu cuerpo como si te fueras a sentar, manteniendo los talones en el suelo y el pecho levantado. Luego, vuelve a la posición inicial.",
+          "level": "Intermedio",
+          "image": "https://t1.uc.ltmcdn.com/es/posts/0/1/8/como_hacer_sentadillas_correctamente_en_casa_44810_600.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Flexiones de brazos",
+          "description": "Colócate boca abajo con las manos a la altura de los hombros. Baja el cuerpo hasta que el pecho casi toque el suelo, luego empuja hacia arriba hasta que los brazos estén extendidos.",
+          "level": "Avanzado",
+          "image": "https://i.blogs.es/886311/flexiones/450_1000.webp"
+        },
+        {
+          "id": 3,
+          "name": "Levantamiento de pesas",
+          "description": "Sujeta una pesa con cada mano, manteniendo los brazos extendidos. Levanta las pesas hacia arriba, manteniendo los codos ligeramente doblados, luego baja lentamente.",
+          "level": "Avanzado",
+          "image": "https://perpetual.fitness/wp-content/uploads/2023/07/entrenamiento-biceps-en-casa.webp"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rutina de cardio",
+      "level": "Fácil",
+      "ejercicios": [
+        {
+          "id": 4,
+          "name": "Correr",
+          "description": "Corre a un ritmo constante, manteniendo una buena postura y respiración.",
+          "level": "Fácil",
+          "image": "https://c8.alamy.com/compes/w6004d/disparo-de-longitud-completa-de-un-joven-hombre-corriendo-en-una-caminadora-profesional-aislado-sobre-fondo-blanco-w6004d.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Nadar",
+          "description": "Nada de manera continua, concentrándote en la técnica de nado y la respiración.",
+          "level": "Intermedio",
+          "image": "https://i.ytimg.com/vi/RKnkJHDmtg4/maxresdefault.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Ciclismo",
+          "description": "Monta en bicicleta a un ritmo constante, manteniendo una buena postura y cambiando de marcha según sea necesario.",
+          "level": "Intermedio",
+          "image": "https://ejemplo.com/ciclismo.jpg"
+        }
+      ]
+    }
+  ]
+}
