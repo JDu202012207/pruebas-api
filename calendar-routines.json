@@ -1,0 +1,23 @@
+[
+  { "id": 1, "day": "Day 1", "routine": "Walk" },
+  { "id": 2, "day": "Day 2", "routine": "Upper Body" },
+  { "id": 3, "day": "Day 3", "routine": "Lower Body" },
+  { "id": 4, "day": "Day 4", "routine": "Upper & Lower Body" },
+  { "id": 5, "day": "Day 5", "routine": "Walk" },
+  { "id": 6, "day": "Day 6", "routine": "Upper Body" },
+  { "id": 7, "day": "Day 7", "routine": "Lower Body" },
+  { "id": 8, "day": "Day 8", "routine": "Upper & Lower Body" },
+  { "id": 9, "day": "Day 9", "routine": "Walk" },
+  { "id": 10, "day": "Day 10", "routine": "Upper Body" },
+  { "id": 11, "day": "Day 11", "routine": "Lower Body" },
+  { "id": 12, "day": "Day 12", "routine": "Upper & Lower Body" },
+  { "id": 13, "day": "Day 13", "routine": "Walk" },
+  { "id": 14, "day": "Day 14", "routine": "Upper Body" },
+  { "id": 15, "day": "Day 15", "routine": "Lower Body" },
+  { "id": 16, "day": "Day 16", "routine": "Upper & Lower Body" },
+  { "id": 17, "day": "Day 17", "routine": "Walk" },
+  { "id": 18, "day": "Day 18", "routine": "Upper Body" },
+  { "id": 19, "day": "Day 19", "routine": "Lower Body" },
+  { "id": 20, "day": "Day 20", "routine": "Upper & Lower Body" },
+  { "id": 21, "day": "Day 21", "routine": "Walk" }
+]
