@@ -6,9 +6,9 @@
       "lastname": "Johnson",
       "email": "alice.johnson@example.com",
       "phone": "123-456-7890",
-      "body_weight": 65, // Peso en kilogramos
-      "height": 165, // Altura en centímetros
-      "bmi": 23.9 // Índice de masa corporal
+      "body_weight": 65,
+      "height": 165,
+      "bmi": 23.9 
     },
     {
       "id": 2,
