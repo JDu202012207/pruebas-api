@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "123-456-7890",
+      "body_weight": 65, // Peso en kilogramos
+      "height": 165, // Altura en centímetros
+      "bmi": 23.9 // Índice de masa corporal
+    },
+    {
+      "id": 2,
+      "firstname": "Bob",
+      "lastname": "Smith",
+      "email": "bob.smith@example.com",
+      "phone": "987-654-3210",
+      "body_weight": 78,
+      "height": 180,
+      "bmi": 24.1
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "firstname": "Carol",
+      "lastname": "Martinez",
+      "email": "carol.martinez@example.com",
+      "phone": "555-123-4567",
+      "body_weight": 70,
+      "height": 175,
+      "bmi": 22.9
+    },
+    {
+      "id": 2,
+      "firstname": "Dave",
+      "lastname": "Lee",
+      "email": "dave.lee@example.com",
+      "phone": "555-765-4321",
+      "body_weight": 90,
+      "height": 190,
+      "bmi": 24.9
+    }
+  ]
+}
