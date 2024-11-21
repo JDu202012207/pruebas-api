@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "imagen": "https://e.rpp-noticias.io/medium/2018/06/18/501450_629456.jpg",
+    "contenido": "Revisa la presión de los neumáticos al menos una vez al mes. Mantenerlos en el nivel adecuado mejora el rendimiento del combustible y prolonga su vida útil."
+  },
+  {
+    "id": 2,
+    "imagen": "https://media.licdn.com/dms/image/D4D12AQG6o6yVjLirxA/article-cover_image-shrink_720_1280/0/1706893939153?e=2147483647&v=beta&t=B-yWa8IEthtjhgChaW7AQWvqiTbzxYnR6kc5qO6uBU4",
+    "contenido": "Cambia el aceite del motor regularmente según las recomendaciones del fabricante. Esto garantiza un buen funcionamiento y evita daños a largo plazo."
+  },
+  {
+    "id": 3,
+    "imagen": "https://i.pinimg.com/originals/ea/c1/c8/eac1c860eb7abf71ceee51a6f96a1c1a.jpg",
+    "contenido": "Siempre ten un kit de emergencia en tu auto, incluyendo botiquín, cables para pasar corriente, triángulos reflectantes y linterna."
+  },
+  {
+    "id": 4,
+    "imagen": "https://www.bardahl.com.mx/wp-content/uploads/2018/02/Revisar-Comprar-Auto-Usado.jpg",
+    "contenido": "Inspecciona regularmente los niveles de líquido de frenos y refrigerante. Mantenerlos en el nivel adecuado ayuda a prevenir accidentes y sobrecalentamientos."
+  },
+  {
+    "id": 5,
+    "imagen": "https://imagenes.eleconomista.com.mx/files/image_768_768/uploads/2018/04/04/66e48aece30cc.png",
+    "contenido": "Lava tu auto con frecuencia, especialmente si vives en zonas costeras o con alta contaminación. Esto previene daños en la pintura y el chasis."
+  }
+]
