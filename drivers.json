@@ -1,0 +1,206 @@
+[
+  {
+    "userId": "2",
+    "role": "DRIVER",
+    "username": "Amanda Zavala",
+    "name": "Amanda Zavala",
+    "email": "rjones@gmail.com",
+    "phoneNumber": "(018)684-8339",
+    "photoUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+    "dni": "73967760",
+    "licenseNumber": "B00012345",
+    "insuranceNumber": "INS-917654",
+    "vehicle": {
+      "plateNumber": "PLT-100",
+      "brand": "Mercedes",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-002",
+      "STU-003"
+    ]
+  },
+  {
+    "userId": "3",
+    "role": "DRIVER",
+    "username": "Christopher Simmons",
+    "name": "Christopher Simmons",
+    "email": "loganmelissa@williams.net",
+    "phoneNumber": "+1-101-399-1615x109",
+    "photoUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+    "dni": "92996081",
+    "licenseNumber": "B00022345",
+    "insuranceNumber": "INS-927654",
+    "vehicle": {
+      "plateNumber": "PLT-101",
+      "brand": "Mercedes",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-004"
+    ]
+  },
+  {
+    "userId": "4",
+    "role": "DRIVER",
+    "username": "Matthew Bell",
+    "name": "Matthew Bell",
+    "email": "gordonbenjamin@lyons.com",
+    "phoneNumber": "579-230-2258x419",
+    "photoUrl": "https://randomuser.me/api/portraits/men/22.jpg",
+    "dni": "57485068",
+    "licenseNumber": "B00032345",
+    "insuranceNumber": "INS-937654",
+    "vehicle": {
+      "plateNumber": "PLT-102",
+      "brand": "Nissan",
+      "model": "Sprinter"
+    },
+    "studentIds": [
+      "STU-005",
+      "STU-006"
+    ]
+  },
+  {
+    "userId": "5",
+    "role": "DRIVER",
+    "username": "David Benton",
+    "name": "David Benton",
+    "email": "emily99@gmail.com",
+    "phoneNumber": "001-466-109-3523x376",
+    "photoUrl": "https://randomuser.me/api/portraits/men/23.jpg",
+    "dni": "18359024",
+    "licenseNumber": "B00042345",
+    "insuranceNumber": "INS-947654",
+    "vehicle": {
+      "plateNumber": "PLT-103",
+      "brand": "Hyundai",
+      "model": "H1"
+    },
+    "studentIds": [
+      "STU-007"
+    ]
+  },
+  {
+    "userId": "6",
+    "role": "DRIVER",
+    "username": "Katelyn Hoffman",
+    "name": "Katelyn Hoffman",
+    "email": "simpsonlarry@williams-carson.biz",
+    "phoneNumber": "812.066.5030",
+    "photoUrl": "https://randomuser.me/api/portraits/men/24.jpg",
+    "dni": "18453606",
+    "licenseNumber": "B00052345",
+    "insuranceNumber": "INS-957654",
+    "vehicle": {
+      "plateNumber": "PLT-104",
+      "brand": "Toyota",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-008",
+      "STU-009"
+    ]
+  },
+  {
+    "userId": "7",
+    "role": "DRIVER",
+    "username": "Rebecca Wilson",
+    "name": "Rebecca Wilson",
+    "email": "desireeroth@hotmail.com",
+    "phoneNumber": "(124)000-3485x590",
+    "photoUrl": "https://randomuser.me/api/portraits/men/25.jpg",
+    "dni": "20797254",
+    "licenseNumber": "B00062345",
+    "insuranceNumber": "INS-967654",
+    "vehicle": {
+      "plateNumber": "PLT-105",
+      "brand": "Mercedes",
+      "model": "Urvan"
+    },
+    "studentIds": [
+      "STU-010"
+    ]
+  },
+  {
+    "userId": "8",
+    "role": "DRIVER",
+    "username": "Jacob Davis",
+    "name": "Jacob Davis",
+    "email": "nelsonedward@roberts.com",
+    "phoneNumber": "730-428-1465",
+    "photoUrl": "https://randomuser.me/api/portraits/men/26.jpg",
+    "dni": "83476275",
+    "licenseNumber": "B00072345",
+    "insuranceNumber": "INS-977654",
+    "vehicle": {
+      "plateNumber": "PLT-106",
+      "brand": "Mercedes",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-011"
+    ]
+  },
+  {
+    "userId": "9",
+    "role": "DRIVER",
+    "username": "William Fowler",
+    "name": "William Fowler",
+    "email": "gonzalezjeffrey@smith-long.net",
+    "phoneNumber": "779-361-5349x2635",
+    "photoUrl": "https://randomuser.me/api/portraits/men/27.jpg",
+    "dni": "48967366",
+    "licenseNumber": "B00082345",
+    "insuranceNumber": "INS-987654",
+    "vehicle": {
+      "plateNumber": "PLT-107",
+      "brand": "Toyota",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-012",
+      "STU-013"
+    ]
+  },
+  {
+    "userId": "10",
+    "role": "DRIVER",
+    "username": "Ashley Ellis",
+    "name": "Ashley Ellis",
+    "email": "danielcarlson@yahoo.com",
+    "phoneNumber": "(966)875-7738",
+    "photoUrl": "https://randomuser.me/api/portraits/men/28.jpg",
+    "dni": "73958907",
+    "licenseNumber": "B00092345",
+    "insuranceNumber": "INS-997654",
+    "vehicle": {
+      "plateNumber": "PLT-108",
+      "brand": "Hyundai",
+      "model": "H1"
+    },
+    "studentIds": [
+      "STU-014"
+    ]
+  },
+  {
+    "userId": "11",
+    "role": "DRIVER",
+    "username": "Suzanne Jones",
+    "name": "Suzanne Jones",
+    "email": "turnerkatherine@rivera-martin.com",
+    "phoneNumber": "+1-758-688-0918x9163",
+    "photoUrl": "https://randomuser.me/api/portraits/men/29.jpg",
+    "dni": "62518866",
+    "licenseNumber": "B000102345",
+    "insuranceNumber": "INS-9107654",
+    "vehicle": {
+      "plateNumber": "PLT-109",
+      "brand": "Mercedes",
+      "model": "Hiace"
+    },
+    "studentIds": [
+      "STU-015"
+    ]
+  }
+]
