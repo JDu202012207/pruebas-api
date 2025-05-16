@@ -1,0 +1,142 @@
+[
+    {
+      "studentId": "STU-002",
+      "name": "Michelle Kelley",
+      "school": "Colegio Las Palmas",
+      "degree": "1th grade",
+      "rfidCode": "378009742",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/2.jpg",
+      "parentUserId": "20",
+      "driverUserId": "2"
+    },
+    {
+      "studentId": "STU-003",
+      "name": "Tasha Rodriguez",
+      "school": "Colegio Las Palmas",
+      "degree": "4th grade",
+      "rfidCode": "941597326",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/3.jpg",
+      "parentUserId": "20",
+      "driverUserId": "2"
+    },
+    {
+      "studentId": "STU-004",
+      "name": "Bobby Flores",
+      "school": "Colegio San Mart\u00edn",
+      "degree": "2th grade",
+      "rfidCode": "911538590",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/4.jpg",
+      "parentUserId": "21",
+      "driverUserId": "3"
+    },
+    {
+      "studentId": "STU-005",
+      "name": "Walter Pratt",
+      "school": "Colegio Santa Mar\u00eda",
+      "degree": "6th grade",
+      "rfidCode": "179180332",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/5.jpg",
+      "parentUserId": "22",
+      "driverUserId": "4"
+    },
+    {
+      "studentId": "STU-006",
+      "name": "Cheryl Bradley",
+      "school": "Colegio San Mart\u00edn",
+      "degree": "4th grade",
+      "rfidCode": "701095367",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/6.jpg",
+      "parentUserId": "22",
+      "driverUserId": "4"
+    },
+    {
+      "studentId": "STU-007",
+      "name": "Dana Nguyen",
+      "school": "Colegio Las Palmas",
+      "degree": "4th grade",
+      "rfidCode": "659799206",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/7.jpg",
+      "parentUserId": "23",
+      "driverUserId": "5"
+    },
+    {
+      "studentId": "STU-008",
+      "name": "April Snyder",
+      "school": "Colegio Santa Mar\u00eda",
+      "degree": "5th grade",
+      "rfidCode": "629975199",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/8.jpg",
+      "parentUserId": "24",
+      "driverUserId": "6"
+    },
+    {
+      "studentId": "STU-009",
+      "name": "Jennifer Summers",
+      "school": "Colegio San Mart\u00edn",
+      "degree": "2th grade",
+      "rfidCode": "884130654",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/9.jpg",
+      "parentUserId": "24",
+      "driverUserId": "6"
+    },
+    {
+      "studentId": "STU-010",
+      "name": "Kimberly Smith",
+      "school": "IE Juan Pablo",
+      "degree": "5th grade",
+      "rfidCode": "581003665",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/0.jpg",
+      "parentUserId": "25",
+      "driverUserId": "7"
+    },
+    {
+      "studentId": "STU-011",
+      "name": "Sean Green",
+      "school": "Colegio San Mart\u00edn",
+      "degree": "5th grade",
+      "rfidCode": "412556224",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "parentUserId": "26",
+      "driverUserId": "8"
+    },
+    {
+      "studentId": "STU-012",
+      "name": "Susan Levy",
+      "school": "Colegio Las Palmas",
+      "degree": "1th grade",
+      "rfidCode": "740258139",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/2.jpg",
+      "parentUserId": "27",
+      "driverUserId": "9"
+    },
+    {
+      "studentId": "STU-013",
+      "name": "Brian Hamilton",
+      "school": "Colegio Las Palmas",
+      "degree": "3th grade",
+      "rfidCode": "718100572",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/3.jpg",
+      "parentUserId": "27",
+      "driverUserId": "9"
+    },
+    {
+      "studentId": "STU-014",
+      "name": "Stephanie Sutton",
+      "school": "Colegio Santa Mar\u00eda",
+      "degree": "5th grade",
+      "rfidCode": "805082653",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/4.jpg",
+      "parentUserId": "28",
+      "driverUserId": "10"
+    },
+    {
+      "studentId": "STU-015",
+      "name": "Stephanie Collins",
+      "school": "IE Juan Pablo",
+      "degree": "1th grade",
+      "rfidCode": "186165974",
+      "photoUrl": "https://randomuser.me/api/portraits/lego/5.jpg",
+      "parentUserId": "29",
+      "driverUserId": "11"
+    }
+  ]
