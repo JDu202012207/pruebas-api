@@ -1,0 +1,114 @@
+    {
+      "userId": "20",
+      "role": "PARENT",
+      "name": "Kimberly Maynard",
+      "phoneNumber": "+1-894-719-6593x423",
+      "photoUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+      "dni": "50709944",
+      "studentIds": [
+        "STU-002",
+        "STU-003"
+      ]
+    },
+    {
+      "userId": "21",
+      "role": "PARENT",
+      "name": "Jennifer Hill",
+      "phoneNumber": "515.917.9533x0413",
+      "photoUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+      "dni": "22727969",
+      "studentIds": [
+        "STU-004"
+      ]
+    },
+    {
+      "userId": "22",
+      "role": "PARENT",
+      "name": "Tyler Lopez",
+      "phoneNumber": "730-086-9141",
+      "photoUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+      "dni": "23515887",
+      "studentIds": [
+        "STU-005",
+        "STU-006"
+      ]
+    },
+    {
+      "userId": "23",
+      "role": "PARENT",
+      "name": "Mary Smith",
+      "phoneNumber": "+1-698-456-4280x71508",
+      "photoUrl": "https://randomuser.me/api/portraits/women/13.jpg",
+      "dni": "44962686",
+      "studentIds": [
+        "STU-007"
+      ]
+    },
+    {
+      "userId": "24",
+      "role": "PARENT",
+      "name": "Megan Baxter",
+      "phoneNumber": "6960271427",
+      "photoUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+      "dni": "53648190",
+      "studentIds": [
+        "STU-008",
+        "STU-009"
+      ]
+    },
+    {
+      "userId": "25",
+      "role": "PARENT",
+      "name": "April Carson",
+      "phoneNumber": "913.193.4421x76104",
+      "photoUrl": "https://randomuser.me/api/portraits/women/15.jpg",
+      "dni": "22242798",
+      "studentIds": [
+        "STU-010"
+      ]
+    },
+    {
+      "userId": "26",
+      "role": "PARENT",
+      "name": "Tonya Lawson",
+      "phoneNumber": "765.823.6940x2245",
+      "photoUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+      "dni": "26751810",
+      "studentIds": [
+        "STU-011"
+      ]
+    },
+    {
+      "userId": "27",
+      "role": "PARENT",
+      "name": "Brian Hoffman",
+      "phoneNumber": "755.171.7604x5229",
+      "photoUrl": "https://randomuser.me/api/portraits/women/17.jpg",
+      "dni": "42495072",
+      "studentIds": [
+        "STU-012",
+        "STU-013"
+      ]
+    },
+    {
+      "userId": "28",
+      "role": "PARENT",
+      "name": "Rodney Farrell",
+      "phoneNumber": "8731764303",
+      "photoUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+      "dni": "44904153",
+      "studentIds": [
+        "STU-014"
+      ]
+    },
+    {
+      "userId": "29",
+      "role": "PARENT",
+      "name": "Colleen Peterson",
+      "phoneNumber": "001-550-824-9269x4711",
+      "photoUrl": "https://randomuser.me/api/portraits/women/19.jpg",
+      "dni": "82558093",
+      "studentIds": [
+        "STU-015"
+      ]
+    }
