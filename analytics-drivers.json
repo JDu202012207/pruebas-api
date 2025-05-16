@@ -1,0 +1,232 @@
+[
+  {
+    "driverUserId": "5",
+    "driverName": "Juan Perez",
+    "incidentSummary": {
+      "detour": 0,
+      "lateness": 1,
+      "speeding": 2
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:52" },
+      { "date": "2025-05-21", "time": "07:35" },
+      { "date": "2025-05-22", "time": "07:35" },
+      { "date": "2025-05-23", "time": "07:29" },
+      { "date": "2025-05-24", "time": "07:50" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 15.44 },
+      { "date": "2025-05-21", "kilometers": 12.23 },
+      { "date": "2025-05-22", "kilometers": 15.81 },
+      { "date": "2025-05-23", "kilometers": 13.46 },
+      { "date": "2025-05-24", "kilometers": 15.73 }
+    ]
+  },
+  {
+    "driverUserId": "3",
+    "driverName": "Driver Paolo",
+    "incidentSummary": {
+      "detour": 4,
+      "lateness": 0,
+      "speeding": 3
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:53" },
+      { "date": "2025-05-21", "time": "07:20" },
+      { "date": "2025-05-22", "time": "07:39" },
+      { "date": "2025-05-23", "time": "07:26" },
+      { "date": "2025-05-24", "time": "07:40" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 15.27 },
+      { "date": "2025-05-21", "kilometers": 16.91 },
+      { "date": "2025-05-22", "kilometers": 14.55 },
+      { "date": "2025-05-23", "kilometers": 18.89 },
+      { "date": "2025-05-24", "kilometers": 16.2 }
+    ]
+  },
+  {
+    "driverUserId": "4",
+    "driverName": "Driver Name 3",
+    "incidentSummary": {
+      "detour": 2,
+      "lateness": 1,
+      "speeding": 5
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:08" },
+      { "date": "2025-05-21", "time": "07:03" },
+      { "date": "2025-05-22", "time": "07:56" },
+      { "date": "2025-05-23", "time": "07:06" },
+      { "date": "2025-05-24", "time": "07:00" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 15.88 },
+      { "date": "2025-05-21", "kilometers": 13.86 },
+      { "date": "2025-05-22", "kilometers": 11.54 },
+      { "date": "2025-05-23", "kilometers": 15.31 },
+      { "date": "2025-05-24", "kilometers": 19.21 }
+    ]
+  },
+  {
+    "driverUserId": "2",
+    "driverName": "Juan Pereza",
+    "incidentSummary": {
+      "detour": 2,
+      "lateness": 3,
+      "speeding": 1
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:38" },
+      { "date": "2025-05-21", "time": "07:37" },
+      { "date": "2025-05-22", "time": "07:06" },
+      { "date": "2025-05-23", "time": "07:16" },
+      { "date": "2025-05-24", "time": "07:02" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 12.39 },
+      { "date": "2025-05-21", "kilometers": 14.19 },
+      { "date": "2025-05-22", "kilometers": 10.66 },
+      { "date": "2025-05-23", "kilometers": 11.76 },
+      { "date": "2025-05-24", "kilometers": 10.05 }
+    ]
+  },
+  {
+    "driverUserId": "6",
+    "driverName": "Driver Urban",
+    "incidentSummary": {
+      "detour": 5,
+      "lateness": 1,
+      "speeding": 4
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:30" },
+      { "date": "2025-05-21", "time": "07:54" },
+      { "date": "2025-05-22", "time": "07:56" },
+      { "date": "2025-05-23", "time": "07:16" },
+      { "date": "2025-05-24", "time": "07:56" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 10.4 },
+      { "date": "2025-05-21", "kilometers": 15.2 },
+      { "date": "2025-05-22", "kilometers": 14.06 },
+      { "date": "2025-05-23", "kilometers": 14.52 },
+      { "date": "2025-05-24", "kilometers": 18.7 }
+    ]
+  },
+  {
+    "driverUserId": "7",
+    "driverName": "Kei Driver",
+    "incidentSummary": {
+      "detour": 0,
+      "lateness": 2,
+      "speeding": 1
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:10" },
+      { "date": "2025-05-21", "time": "07:20" },
+      { "date": "2025-05-22", "time": "07:27" },
+      { "date": "2025-05-23", "time": "07:33" },
+      { "date": "2025-05-24", "time": "07:10" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 11.16 },
+      { "date": "2025-05-21", "kilometers": 15.29 },
+      { "date": "2025-05-22", "kilometers": 19.14 },
+      { "date": "2025-05-23", "kilometers": 13.87 },
+      { "date": "2025-05-24", "kilometers": 12.61 }
+    ]
+  },
+  {
+    "driverUserId": "8",
+    "driverName": "Jhon Driver",
+    "incidentSummary": {
+      "detour": 1,
+      "lateness": 0,
+      "speeding": 1
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:51" },
+      { "date": "2025-05-21", "time": "07:36" },
+      { "date": "2025-05-22", "time": "07:31" },
+      { "date": "2025-05-23", "time": "07:06" },
+      { "date": "2025-05-24", "time": "07:59" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 11.92 },
+      { "date": "2025-05-21", "kilometers": 11.26 },
+      { "date": "2025-05-22", "kilometers": 16.17 },
+      { "date": "2025-05-23", "kilometers": 16.97 },
+      { "date": "2025-05-24", "kilometers": 17.11 }
+    ]
+  },
+  {
+    "driverUserId": "9",
+    "driverName": "Paolo Algo",
+    "incidentSummary": {
+      "detour": 5,
+      "lateness": 1,
+      "speeding": 1
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:37" },
+      { "date": "2025-05-21", "time": "07:59" },
+      { "date": "2025-05-22", "time": "07:32" },
+      { "date": "2025-05-23", "time": "07:05" },
+      { "date": "2025-05-24", "time": "07:48" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 14.32 },
+      { "date": "2025-05-21", "kilometers": 16.21 },
+      { "date": "2025-05-22", "kilometers": 10.49 },
+      { "date": "2025-05-23", "kilometers": 13.06 },
+      { "date": "2025-05-24", "kilometers": 13.19 }
+    ]
+  },
+  {
+    "driverUserId": "10",
+    "driverName": "Cancho Perez",
+    "incidentSummary": {
+      "detour": 0,
+      "lateness": 5,
+      "speeding": 0
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:14" },
+      { "date": "2025-05-21", "time": "07:50" },
+      { "date": "2025-05-22", "time": "07:56" },
+      { "date": "2025-05-23", "time": "07:24" },
+      { "date": "2025-05-24", "time": "07:47" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 19.07 },
+      { "date": "2025-05-21", "kilometers": 12.05 },
+      { "date": "2025-05-22", "kilometers": 12.76 },
+      { "date": "2025-05-23", "kilometers": 16.41 },
+      { "date": "2025-05-24", "kilometers": 17.04 }
+    ]
+  },
+  {
+    "driverUserId": "11",
+    "driverName": "Diego Perez",
+    "incidentSummary": {
+      "detour": 3,
+      "lateness": 4,
+      "speeding": 0
+    },
+    "arrivalTimesAtSchool": [
+      { "date": "2025-05-20", "time": "07:18" },
+      { "date": "2025-05-21", "time": "07:55" },
+      { "date": "2025-05-22", "time": "07:30" },
+      { "date": "2025-05-23", "time": "07:30" },
+      { "date": "2025-05-24", "time": "07:23" }
+    ],
+    "distanceTraveled": [
+      { "date": "2025-05-20", "kilometers": 17.36 },
+      { "date": "2025-05-21", "kilometers": 17.67 },
+      { "date": "2025-05-22", "kilometers": 19.31 },
+      { "date": "2025-05-23", "kilometers": 10.62 },
+      { "date": "2025-05-24", "kilometers": 19.15 }
+    ]
+  }
+]
